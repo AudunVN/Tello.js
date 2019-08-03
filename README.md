@@ -1,5 +1,5 @@
 # Tello.js
-![UML diagram](Tello.svg?sanitize=true "Title")
+![UML diagram](Tello.svg?sanitize=true "Object relations")
 
 ## Hardware
  - [Ryze Tello](https://www.ryzerobotics.com/tello)
